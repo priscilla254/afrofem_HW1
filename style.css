@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(115, 219, 186);
+    font-family:cursive;
+    padding: 3px;
+    text-align:justify;
+
+}
+h3{
+    color:brown
+}
+img{
+    max-width: 400px;
+    height: auto;
+}
+
+.box-border{
+    width: 500px;
+    border: 20px solid black;
+    padding: 20px;
+    margin: 20px;
+}
